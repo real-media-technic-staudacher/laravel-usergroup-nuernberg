@@ -12,5 +12,5 @@ Die Laravel Usergroup richtet sich an Entwickler, Softwarearchitekten und techni
 
 ---
 
-[![@phpNbg](https://raw.githubusercontent.com/real-media-technic-staudacher/laravel-usergroup-nuernberg/master/.github/twitter.png "@phpNbg")](https://twitter.com/PhpNbg)
+[![@phpNbg](https://raw.githubusercontent.com/real-media-technic-staudacher/laravel-usergroup-nuernberg/master/.github/twitter.png "@phpNbg")](https://twitter.com/PhpNbg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![meetup](https://raw.githubusercontent.com/real-media-technic-staudacher/laravel-usergroup-nuernberg/master/.github/meetup.png "Laravel Usergroup Nürnberg")](https://www.meetup.com/de-DE/Laravel-Usergroup-Nurnberg/)
